@@ -1,0 +1,23 @@
+{
+  "titlehome" : "بەخیربێن بۆ هەوژێر-کوردیستان",
+  "places" : "شوێنەکان",
+  "addplace" : "زیادکردنی شوێن",
+  "listplace" :"لیستی شوێنەکان",
+  "Tourism" : "گەشتیاری",
+  "listHotels" : "لیستی هۆتێلەکان",
+  "listShop" : "لیستی دوکانەکان",
+  "listRestaurants" : "لیستی چێشتخانەکان",
+  "listTorisms" : "لیستی شوێنەگەشتیاریەکان",
+  "cancel" : "گەرانەوە",
+  "select places" : "شوێنەکان هەڵبزێرە",
+  "Name" : "ناو",
+  "email" : "ئیمێەڵ",
+  "useraccount" : "فایلی بەکارهێنەر",
+  "Setting" : "ڕێکخستن",
+  "changeLang" : "زمانەکەت بگۆرە",
+  "English" : "English",
+  "Kurdish" : "کوردی",
+  "change" : "گۆرئن",
+  "logout" : "چوونەدەرەوە",
+  "login" : "چوونەزوورەوە"
+}

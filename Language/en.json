@@ -1,0 +1,23 @@
+{
+  "titlehome" : "Welcom to Erbil-kurdistan",
+  "places" : "Places",
+  "addplace" : "Add Place",
+  "listplace" :"List place",
+  "Tourism" : "Tourism",
+  "listHotels" : "List Hotels",
+  "listShop" : "List Shops",
+  "listRestaurants" : "List Restaurants",
+  "listTorisms" : "List Torisms",
+  "cancel" : "Cancel",
+  "select places" : "Select Places",
+  "Name" : "Name",
+  "email" : "email",
+  "useraccount" : "User Account",
+  "Setting" : "Setting",
+  "changeLang" : "Change Your Language",
+  "English" : "English",
+  "Kurdish" : "Kurdish",
+  "change" : "Change",
+  "logout" : "log out",
+  "login" : "login"
+}
