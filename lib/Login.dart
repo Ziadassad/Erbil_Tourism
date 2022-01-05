@@ -15,7 +15,7 @@ class Login extends StatelessWidget {
   Widget build(BuildContext context) {
     return Builder(
       builder: (context) => Scaffold(
-        resizeToAvoidBottomPadding: false,
+        //resizeToAvoidBottomPadding: false,
         backgroundColor: Colors.white,
         body: Scaffold(
           body: SingleChildScrollView(

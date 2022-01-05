@@ -12,7 +12,7 @@ class SiginUp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
+      //resizeToAvoidBottomPadding: false,
       body: SafeArea(
         child: SingleChildScrollView(
           child: Container(
